@@ -1,2 +1,2 @@
-# resume
-Krishna Atluri
+# Sri Satya Krishna Atluri
+Resume

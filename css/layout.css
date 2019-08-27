@@ -287,7 +287,7 @@ ul#nav li.current a { color: #F06000; }
 
 #worksection {
    background: #fff;
-   padding-top: 90px;
+   padding-top: 5px;
    padding-bottom: 72px;
    overflow: hidden;
 }
@@ -337,7 +337,7 @@ ul#nav li.current a { color: #F06000; }
 
 #skillssection {
    background: #fff;
-   padding-top: 90px;
+   padding-top: 5px;
    padding-bottom: 72px;
    overflow: hidden;
 }
